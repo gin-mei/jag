@@ -1,0 +1,8 @@
+{
+"name":"GIM#6546",
+"ticker":"JAG",
+"discordId":"397580062561533953",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/gin-mei/jag/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/gin-mei/jag/main/sjg-validation.json"
+}
